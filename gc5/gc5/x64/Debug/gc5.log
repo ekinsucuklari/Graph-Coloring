@@ -1,0 +1,8 @@
+﻿  gc5.cpp
+C:\Users\LENOVO\source\repos\gc5\gc5\gc5.cpp(31,38): warning C4267: '=': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\LENOVO\source\repos\gc5\gc5\gc5.cpp(51,32): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  gc5.vcxproj -> C:\Users\LENOVO\source\repos\gc5\x64\Debug\gc5.exe
